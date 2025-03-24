@@ -1,3 +1,5 @@
 requests>=2.25.1
 python-dotenv>=0.19.0
 flask>=2.0.1
+pip install gunicorn
+pip freeze > requirements.txt
